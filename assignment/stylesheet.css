@@ -1,0 +1,16 @@
+header{
+    background-color: darkgray;
+    color: coral;
+    text-align: center;
+}
+main{
+    background-color: lightgrey;
+    padding: 1em;
+}
+body{
+    background-image: url(record.png);
+    margin: 0;
+}
+p{
+    text-align: center;
+}
